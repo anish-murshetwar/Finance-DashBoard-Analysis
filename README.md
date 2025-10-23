@@ -1,25 +1,20 @@
  ###📊 Finance Dashboard Analysis
-This repository contains the files and analysis for a Finance Dashboard created using Power BI. The dashboard provides key insights into sales, units sold, product performance, segment profitability, and geographical sales distribution.
+     This repository contains the files and analysis for a Finance Dashboard created using Power BI. The dashboard provides key insights into sales, units sold, product performance, segment profitability, and 
+     geographical sales distribution.
 
 ###🌟 Key Features of the Dashboard
-Key Performance Indicators (KPIs): Instant view of Sum of Sales and Sum of Units Sold.
-
-Sales Performance: Detailed breakdown of sales by Product and Month.
-
-Profitability Analysis: Visualizing Profit by Segment using a donut chart.
-
-Segmentation: Analyzing Sales by Segment and geographical distribution of sales by Country.
-
-Technology Used: Built entirely using Power BI Desktop.
+       Key Performance Indicators (KPIs): Instant view of Sum of Sales and Sum of Units Sold.
+       Sales Performance: Detailed breakdown of sales by Product and Month.
+       Profitability Analysis: Visualizing Profit by Segment using a donut chart.
+       Segmentation: Analyzing Sales by Segment and geographical distribution of sales by Country.
+       Technology Used: Built entirely using Power BI Desktop.
+      
 
 ###📁 Repository Structure
-Finance_Dashboard.pbix: The main Power BI report file.
-
-data/: Directory containing the raw dataset.
-
-finance_data.csv: The CSV file used to generate the dashboard.
-
-images/: Contains relevant screenshots of the dashboard (e.g., dashboard_overview.png).
+       Finance_Dashboard.pbix: The main Power BI report file.
+       dataset/: Directory containing the raw dataset.
+       finance_data.csv: The CSV file used to generate the dashboard.
+       images/: Contains relevant screenshots of the dashboard (e.g., dashboard_overview.png).    
 
 🛠️ How to View the Dashboard
   To view and interact with the full dashboard:
