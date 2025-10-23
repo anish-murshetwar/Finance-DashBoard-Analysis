@@ -1,4 +1,4 @@
-###📊 Finance Dashboard Analysis
+ ###📊 Finance Dashboard Analysis
 This repository contains the files and analysis for a Finance Dashboard created using Power BI. The dashboard provides key insights into sales, units sold, product performance, segment profitability, and geographical sales distribution.
 
 ###🌟 Key Features of the Dashboard
