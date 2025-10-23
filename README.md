@@ -24,7 +24,7 @@
    1. Download Power BI Desktop: Ensure you have the latest version of Microsoft Power BI Desktop installed.
    2. Clone the Repository:
 
-          git clone [Your Repository URL]
+          git clone [https://github.com/anish-murshetwar/Finance-DashBoard-Analysis.git]
    3. Open the File: Navigate to the cloned folder and open the Finance_Dashboard.pbix file.
    4. Explore: You can now explore the visualizations, hover over elements, and interact with the data filters.
 
